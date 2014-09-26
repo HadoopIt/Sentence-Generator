@@ -1,0 +1,78 @@
+@RESTAURANT-TYPE restaurant
+@RESTAURANT-TYPE food
+@RESTAURANT-TYPE food in @CITY
+a @RESTAURANT-TYPE restaurant
+@RESTAURANT-TYPE restaurants
+add an appointment with @PERSON-FIRSTNAME on @DAY-OF-WEEK
+browse @WEBSITE
+call @PERSON-FIRSTNAME
+call @PERSON-LASTNAME
+can you please schedule a meeting with @PERSON-FIRSTNAME tomorrow morning 
+can you text @PERSON-FIRSTNAME
+closest @RESTAURANT-TYPE
+dial Mr. @PERSON-LASTNAME
+directions to @RETAILER
+find @RESTAURANT-NAME
+find @RESTAURANT-TYPE food in @CITY
+find @RESTAURANT-TYPE restaurants in @CITY
+find a @RESTAURANT-TYPE place
+find the closest @RESTAURANT-TYPE restaurant
+find the nearest @RESTAURANT-TYPE restaurant
+give me resturants with @RESTAURANT-FOOD
+how about @RESTAURANT-TYPE
+how old is @PERSON-FAMOUS
+i feel like @RESTAURANT-FOOD
+i want @RESTAURANT-FOOD
+i want @RESTAURANT-TYPE
+i want to text @PERSON-FIRSTNAME i'm running late
+is there and @RESTAURANT-TYPE restaurants nearby
+20 minutes late
+my name is @PERSON-FIRSTNAME
+navigate to @RETAILER
+nearest @RESTAURANT-NAME
+nearest @RETAILER
+please call me @PERSON-FIRSTNAME
+please schedule a meeting with @PERSON-FIRSTNAME tomorrow morning at @RESTAURANT-NAME
+remind me to send a message to @PERSON-FIRSTNAME
+schedule a meeting with @PERSON-FIRSTNAME @PERSON-LASTNAME tomorrow at @TIME
+schedule a meeting with @PERSON-FIRSTNAME for @DAY-OF-WEEK
+schedule meeting on @DAY-OF-WEEK with @PERSON-FIRSTNAME
+schedule meeting with @PERSON-FIRSTNAME
+send a message to @PERSON-FIRSTNAME
+send a new text message to @PERSON-FIRSTNAME
+send a text to @PERSON-FIRSTNAME
+set destination nearest @RESTAURANT-NAME
+show me a restaurant with @RESTAURANT-FOOD food
+take me to @RETAILER
+text @PERSON-FIRSTNAME
+text @PERSON-FIRSTNAME @PERSON-LASTNAME that i'm running late
+text @PERSON-FIRSTNAME i am leaving now
+text @PERSON-FIRSTNAME i am on my way
+text @PERSON-FIRSTNAME i am running 10 minutes late
+text @PERSON-FIRSTNAME i am running 15 minutes late
+text @PERSON-FIRSTNAME i am running 20 minutes late
+text @PERSON-FIRSTNAME i am running 25 minutes late
+text @PERSON-FIRSTNAME i am running 30 minutes late
+text @PERSON-FIRSTNAME i am running 5 minutes late
+text @PERSON-FIRSTNAME i am running late
+text @PERSON-FIRSTNAME i'm caught in traffic will be 10 minutes late
+text @PERSON-FIRSTNAME i'm caught in traffic will be 20 minutes late
+text @PERSON-FIRSTNAME i'm caught in traffic will be 30 minutes late
+text @PERSON-FIRSTNAME i'm caught in traffic will be 5 minutes late
+text @PERSON-FIRSTNAME i'm departing now
+text @PERSON-FIRSTNAME i'm leaving now
+text @PERSON-FIRSTNAME i'm on my way
+text @PERSON-FIRSTNAME i'm running late
+text @PERSON-FIRSTNAME on my way i've just left home
+text to @PERSON-FIRSTNAME i'm running late
+where is @RESTAURANT-NAME
+where is @RETAILER
+where is the closest @RESTAURANT-NAME
+where is the closest @RETAILER
+where is the nearest @RESTAURANT-NAME
+where is the nearest @RETAILER
+where's the closest @RESTAURANT-NAME
+where's the closest @RETAILER
+where's the nearest @RESTAURANT-NAME
+where's the nearest @RETAILER
+who is @PERSON-FAMOUS
