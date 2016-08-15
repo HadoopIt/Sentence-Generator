@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 29 18:04:18 2014
 
-@author: Bing Liu, v.bingliu@gmail.com
+@author: Bing Liu
 """
 from random import random
 from random import randint

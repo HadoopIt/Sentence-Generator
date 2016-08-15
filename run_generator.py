@@ -3,7 +3,7 @@
 This program is used for generating ramdom sentences and queries for Automatic Speech Recognition (ASR) model training
 
 Created on Fri Aug 29 16:01:10 2014
-@author: Bing Liu, v.bingliu@gmail.com
+@author: Bing Liu
 """
 
 import module
